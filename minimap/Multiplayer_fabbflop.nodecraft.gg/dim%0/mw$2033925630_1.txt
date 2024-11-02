@@ -1,0 +1,86 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:coal:C:6444:76:2776:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:2x2:2:6214:79:2609:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:biiiig tree:B:6188:75:2575:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:cass hem:C:4573:63:4457:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:hem:H:4560:63:4465:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:hem:H:4548:63:4464:9:false:0:gui.xaero_default:false:0:0:false
+waypoint:VL hem:V:4575:52:4464:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:M gold L Ylimeo:M:4575:53:4465:7:false:0:gui.xaero_default:false:0:0:false
+waypoint:goethite:G:4575:54:4465:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:hematite:H:4565:64:4463:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:cass:C:4546:63:4467:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:pollucite:P:4563:63:4470:4:false:0:gui.xaero_default:false:0:0:false
+waypoint:kyanite:K:4549:60:4494:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:casserite:C:4556:61:4491:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:Bamboo:B:5150:64:5163:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:patches granit:P:4025:64:4365:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:dacite:D:4389:63:4452:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:bismuth:B:5240:62:3034:4:false:0:gui.xaero_default:false:0:0:false
+waypoint:bismuth:B:6204:73:2519:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:tet:T:6269:75:2536:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:tet:T:6249:72:2553:4:false:0:gui.xaero_default:false:0:0:false
+waypoint:tetrahedrite:T:6276:69:2563:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:salt:S:6300:66:2594:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:sphalerite:S:6330:66:2559:9:false:0:gui.xaero_default:false:0:0:false
+waypoint:lots bis:L:6395:66:2566:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:bismuth:B:6428:64:2573:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:sphalerite:S:6474:83:2706:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:salt lick:S:6440:74:2745:4:false:0:gui.xaero_default:false:0:0:false
+waypoint:bismuth:B:6410:67:2737:9:false:0:gui.xaero_default:false:0:0:false
+waypoint:diorite:D:6367:76:2739:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:tetrahedrite:T:5720:64:2000:9:false:0:gui.xaero_default:false:0:0:false
+waypoint:bismuth:B:5530:63:2107:4:false:0:gui.xaero_default:false:0:0:false
+waypoint:claystone:C:5470:63:2132:9:false:0:gui.xaero_default:false:0:0:false
+waypoint:boat park:B:5484:63:2138:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Shared Location:S:3410:109:-2030:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:Hotspring:H:3535:85:-1909:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:RSpring:R:3404:112:-2031:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:tetra:T:3577:76:-1339:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:small camp igloo:S:3215:64:-503:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:gui.xaero_deathpoint:D:3218:65:-505:0:false:1:gui.xaero_default:false:0:1:true
+waypoint:Ricard's Spring:R:3450:96:-2001:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:um derp:U:3349:158:-2011:4:false:0:gui.xaero_default:false:0:0:false
+waypoint:bismuth:B:3231:60:-485:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:pumice:P:3313:66:-471:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:Andesite:A:3362:70:-496:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:chasm:C:3389:70:-541:9:false:0:gui.xaero_default:false:0:0:false
+waypoint:sphalerite:S:3386:93:-559:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:bismuth':B:3374:92:-604:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:still marble:S:3378:70:-636:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:limonite:L:3648:55:-691:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:gold:G:3676:77:-839:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:gold:G:3685:78:-860:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:garnerite:G:3833:73:-1176:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:sphalerite:S:3826:72:-1191:9:false:0:gui.xaero_default:false:0:0:false
+waypoint:Old Death:D:3347:145:-2005:0:false:0:gui.xaero_default:false:0:2:true
+waypoint:some stuff:S:3345:141:-2013:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:bismuth:B:3345:135:-2018:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:duck:D:3796:83:-1142:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:sphalerite:S:3562:84:-1336:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:boar:B:3785:85:-1233:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:Cassiterite, Native Gold:C:3790:71:-1400:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:Cassiterite, Native Gold:C:3800:72:-1393:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:clay:C:3739:76:-1155:4:false:0:gui.xaero_default:false:0:0:false
+waypoint:bismuth:B:3685:83:-1235:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Cassiterite:C:3733:79:-875:7:false:0:gui.xaero_default:false:0:0:false
+waypoint:Native Gold:N:3828:85:-1395:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:Lava:L:3710:69:-1097:4:false:0:gui.xaero_default:false:0:0:false
+waypoint:Male alpaca:M:3733:87:-916:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:Tetrahedrite:T:3440:84:-1733:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:Tetrahedrite:T:3588:72:-1542:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:Tetrahedrite:T:3907:93:-1757:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:Camp 1:C:3719:69:-1287:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:Gold:G:3906:67:-1573:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:Cassiterite nuggets:C:3863:75:-1576:7:false:0:gui.xaero_default:false:0:0:false
+waypoint:Limeonite nug:L:3724:69:-1282:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:onions:O:3565:91:-1288:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:granite tetrahedrite vein:G:3553:87:-1294:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Lava?:L:3325:~:-1858:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:clay:C:3431:~:-1609:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Male Duck:M:3710:93:-1022:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:Male Alpaca:M:3760:84:-928:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:garneritew:G:3865:73:-1011:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:garnerite:G:3875:78:-1005:4:false:0:gui.xaero_default:false:0:0:false
